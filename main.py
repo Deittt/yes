@@ -3,7 +3,7 @@ from time import sleep
 import random
 
 
-TOKEN='1777813467:AAG8Cd5FM1_jbIt7XybzZK4bgRByqg_DtBI'
+TOKEN='ы'
 bot=telebot.TeleBot(TOKEN)
 yes='CAACAgQAAxkBAAECPTpgiUlWrpTERtdXCxVRrfXEEWJcswACkwEAAjPl4hVchh0Om9EIth8E'
 no='CAACAgQAAxkBAAECPTZgiUlNis1SpHVo7IZ6L95xTNiK6QACkQEAAjPl4hUAATXKzK6Do7IfBA'
